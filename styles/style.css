@@ -1,5 +1,5 @@
 #cover{
-    background-image: url(../bootcamp/images/main-bg.jpg);
+    background-image: url(../images/main-bg.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -13,7 +13,7 @@
 
 
 #gallery{
-    background-image: url(../bootcamp/images/the-games-bg.jpg);
+    background-image: url(../images/the-games-bg.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -23,11 +23,11 @@
 }   
 
 .carousel-control-prev-icon {
-    background-image: url('../bootcamp/switch-left.svg') !important;
+    background-image: url('../images/switch-left.svg') !important;
 }
 
 .carousel-control-next-icon {
-    background-image: url('../bootcamp/switch-right.svg') !important;
+    background-image: url('../images/switch-right.svg') !important;
 }
 
 .carousel-control-prev {
@@ -39,7 +39,7 @@
 }
 
 #features {
-    background-image: url(../bootcamp/images/features.jpg);
+    background-image: url(../images/features.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -72,7 +72,7 @@
 
 .item-game.active:before {
     content: '';
-    background-image: url('../bootcamp/ellipse.svg');
+    background-image: url('../images/ellipse.svg');
     position: absolute;
     width: 16px;
     height: 16px;
@@ -81,7 +81,7 @@
 
 .item-game.inactive:before {
     content: '';
-    background-image: url('../bootcamp/ellipse-outline.svg');
+    background-image: url('../images/ellipse-outline.svg');
     position: absolute;
     width: 16px;
     height: 16px;
@@ -89,7 +89,7 @@
 }
 
 #requirements {
-    background-image: url('../bootcamp/images/requirements.png');
+    background-image: url('../images/requirements.png');
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -101,7 +101,7 @@
 
 
 #top-score{
-    background-image: url(../bootcamp/images/top-score-bg.png);
+    background-image: url(../images/top-score-bg.png);
     background-size: cover;
     height: 100vh;
     box-shadow: 0px 0px 100px 50px rgba(0, 0, 0, 0.7) inset;
@@ -137,7 +137,7 @@
 }
 
 .card-twitter {
-    background-image: url('../bootcamp/images/twitter-card.png');
+    background-image: url('../images/twitter-card.png');
     background-color: #eee;
     height: 20px;
     width: 20px;
@@ -151,14 +151,14 @@
     }
 }
 #newsletter{
-    background-image: url(../bootcamp/images/newsletter.png);
+    background-image: url(../images/newsletter.png);
     background-position: center;
     background-size: cover;
     height: 100vh;
     box-shadow: 0px 0px 100px 50px rgba(0, 0, 0, 0,5);
 }
 section.subscribe {
-    background-image: url(../bootcamp/images/newsletter.png);
+    background-image: url(../images/newsletter.png);
 }
 section.subscribe .container-fluid {
     height: 100vh;
